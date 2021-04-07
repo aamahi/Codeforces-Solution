@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Wrong answer on this problem
+ * 
+ * Can't run this problem properle.
+ */
+
 $t = readline();
 
 while ( $t--){
