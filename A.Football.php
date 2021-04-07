@@ -10,7 +10,6 @@ for($i =1 ; $i < strlen($s); ++$i){
         if ($contiguous == 7)
         {
             echo "YES";
-            return 0;
         }
     }
     else
@@ -19,5 +18,4 @@ for($i =1 ; $i < strlen($s); ++$i){
     }
 }
 echo "NO";
-return 0;
 
