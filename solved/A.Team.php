@@ -14,4 +14,3 @@ while($looper--){
     }
 }
 echo $solved."\n";
-
